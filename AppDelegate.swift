@@ -21,7 +21,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         // Override point for customization after application launch.
         
-        //app appearance
+        //app Color & appearance
         let navigationBar = UINavigationBar.appearance()
         navigationBar.tintColor = UIColor.whiteColor()
         navigationBar.barTintColor = UIColor(red: 0, green: 0.5, blue: 1, alpha: 1)

@@ -55,6 +55,8 @@ class ListItemTableViewController: UITableViewController , ABPadLockScreenSetupV
 
         searchBar.delegate = self
         self.searchBar.delegate = self
+        
+        //test
     }
     
     
